@@ -1,8 +1,8 @@
 import socket
 
 # Server configuration
-HOST = '127.0.0.1'  # Server's hostname or IP address
-PORT = 12345        # Server's port
+HOST = '127.0.0.1'
+PORT = 12345
 
 def start_client():
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -11,18 +11,18 @@ def start_client():
 
     try:
         while True:
-            # Get user input
-            message = input("Enter message to send: ")
-            if message.lower() == "exit":
+            # Get task input from the user
+            task = input("Enter a sentence to process (or type 'exit' to quit): ")
+            if task.lower() == "exit":
                 print("Exiting client...")
                 break
 
-            # Send message to server
-            client.send(message.encode('utf-8'))
+            # Send task to server
+            client.send(task.encode('utf-8'))
 
-            # Receive response from server
-            response = client.recv(1024).decode('utf-8')
-            print(f"Server response: {response}")
+            # Receive result from server
+            result = client.recv(1024).decode('utf-8')
+            print(f"Result from server: {result}")
     finally:
         client.close()
 
