@@ -7,11 +7,11 @@ HOST = '127.0.0.1'
 PORT = 12345
 
 def process_task(task):
-    """
-    Safely evaluate a mathematical expression sent by the client.
-    """
+    
+    #Safely evaluate a mathematical expression sent by the client.
+    
     try:
-        # Simple sanitization to avoid malicious input
+        # Simple input validation to avoid malicious input
         if not re.match(r'^[\d+\-*/(). ]+$', task):
             return "Error: Invalid expression"
         
