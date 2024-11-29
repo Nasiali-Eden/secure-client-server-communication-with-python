@@ -1,0 +1,125 @@
+2024-11-27 09:57:30,548 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:57:35,550 - INFO - Server shut down.
+2024-11-27 09:57:35,550 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:57:40,552 - INFO - Server shut down.
+2024-11-27 09:57:40,552 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:57:45,553 - INFO - Server shut down.
+2024-11-27 09:57:45,553 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:57:50,555 - INFO - Server shut down.
+2024-11-27 09:57:50,555 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:57:55,565 - INFO - Server shut down.
+2024-11-27 09:57:55,565 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:00,566 - INFO - Server shut down.
+2024-11-27 09:58:00,566 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:05,568 - INFO - Server shut down.
+2024-11-27 09:58:05,568 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:10,570 - INFO - Server shut down.
+2024-11-27 09:58:10,570 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:15,571 - INFO - Server shut down.
+2024-11-27 09:58:15,571 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:20,572 - INFO - Server shut down.
+2024-11-27 09:58:20,572 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:25,574 - INFO - Server shut down.
+2024-11-27 09:58:25,574 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:30,575 - INFO - Server shut down.
+2024-11-27 09:58:30,575 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:35,577 - INFO - Server shut down.
+2024-11-27 09:58:35,577 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:40,579 - INFO - Server shut down.
+2024-11-27 09:58:40,579 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:45,580 - INFO - Server shut down.
+2024-11-27 09:58:45,580 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:50,581 - INFO - Server shut down.
+2024-11-27 09:58:50,581 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:58:55,582 - INFO - Server shut down.
+2024-11-27 09:58:55,582 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:59:00,583 - INFO - Server shut down.
+2024-11-27 09:59:00,583 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:59:05,585 - INFO - Server shut down.
+2024-11-27 09:59:05,585 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:59:10,586 - INFO - Server shut down.
+2024-11-27 09:59:10,586 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:59:15,588 - INFO - Server shut down.
+2024-11-27 09:59:15,588 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:59:20,589 - INFO - Server shut down.
+2024-11-27 09:59:20,589 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 09:59:25,590 - INFO - Server shut down.
+2024-11-27 09:59:25,590 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:19:53,413 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:19:58,416 - INFO - Server shut down.
+2024-11-27 10:19:58,417 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:03,418 - INFO - Server shut down.
+2024-11-27 10:20:03,418 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:08,420 - INFO - Server shut down.
+2024-11-27 10:20:08,421 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:13,422 - INFO - Server shut down.
+2024-11-27 10:20:13,422 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:18,423 - INFO - Server shut down.
+2024-11-27 10:20:18,423 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:23,424 - INFO - Server shut down.
+2024-11-27 10:20:23,424 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:28,425 - INFO - Server shut down.
+2024-11-27 10:20:28,425 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:33,426 - INFO - Server shut down.
+2024-11-27 10:20:33,426 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:38,427 - INFO - Server shut down.
+2024-11-27 10:20:38,427 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:43,428 - INFO - Server shut down.
+2024-11-27 10:20:43,428 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:48,429 - INFO - Server shut down.
+2024-11-27 10:20:48,429 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:53,430 - INFO - Server shut down.
+2024-11-27 10:20:53,431 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:20:58,431 - INFO - Server shut down.
+2024-11-27 10:20:58,431 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:03,432 - INFO - Server shut down.
+2024-11-27 10:21:03,432 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:08,433 - INFO - Server shut down.
+2024-11-27 10:21:08,433 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:13,434 - INFO - Server shut down.
+2024-11-27 10:21:13,434 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:18,435 - INFO - Server shut down.
+2024-11-27 10:21:18,435 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:23,436 - INFO - Server shut down.
+2024-11-27 10:21:23,436 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:28,437 - INFO - Server shut down.
+2024-11-27 10:21:28,437 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:33,438 - INFO - Server shut down.
+2024-11-27 10:21:33,438 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:38,439 - INFO - Server shut down.
+2024-11-27 10:21:38,439 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:21:43,440 - INFO - Server shut down.
+2024-11-27 10:21:43,440 - ERROR - Error: module 'ssl' has no attribute 'wrap_socket'. Retrying in 5 seconds.
+2024-11-27 10:22:05,981 - INFO - Server listening on 127.0.0.1:12345
+2024-11-27 10:24:51,540 - INFO - Server listening on 127.0.0.1:12345
+2024-11-27 10:25:16,200 - INFO - New connection from ('127.0.0.1', 62166)
+2024-11-27 10:25:28,240 - INFO - Task received from ('127.0.0.1', 62166): hello
+2024-11-27 10:25:28,240 - INFO - Processing task: hello
+2024-11-27 10:25:40,525 - INFO - Client ('127.0.0.1', 62166) disconnected.
+2024-11-27 10:25:40,525 - INFO - Connection with ('127.0.0.1', 62166) closed.
+2024-11-27 10:29:43,560 - INFO - Server listening on 127.0.0.1:12345
+2024-11-27 10:29:49,364 - INFO - Accepted connection from ('127.0.0.1', 62229)
+2024-11-27 10:29:49,368 - INFO - New connection from ('127.0.0.1', 62229)
+2024-11-27 10:30:04,370 - WARNING - Task timeout for client ('127.0.0.1', 62229)
+2024-11-27 10:30:04,370 - INFO - Connection with ('127.0.0.1', 62229) closed.
+2024-11-27 10:36:55,202 - INFO - Server listening on 127.0.0.1:12345
+2024-11-27 10:37:01,036 - INFO - Accepted connection from ('127.0.0.1', 62277)
+2024-11-27 10:37:01,036 - INFO - New connection from ('127.0.0.1', 62277)
+2024-11-27 10:37:20,923 - INFO - Client authenticated: user1
+2024-11-27 10:37:24,787 - INFO - Task received from ('127.0.0.1', 62277): hello
+2024-11-27 10:37:24,787 - INFO - Processing task: hello
+2024-11-27 10:37:39,554 - INFO - Client ('127.0.0.1', 62277) disconnected.
+2024-11-27 10:37:39,555 - INFO - Connection with ('127.0.0.1', 62277) closed.
+2024-11-27 10:40:01,717 - INFO - Server listening on 127.0.0.1:12345
+2024-11-27 10:40:09,608 - INFO - Accepted connection from ('127.0.0.1', 62317)
+2024-11-27 10:40:09,608 - INFO - New connection from ('127.0.0.1', 62317)
+2024-11-27 10:40:27,458 - INFO - Client authenticated: user1
+2024-11-27 10:40:35,355 - INFO - Accepted connection from ('127.0.0.1', 62334)
+2024-11-27 10:40:35,355 - INFO - New connection from ('127.0.0.1', 62334)
+2024-11-27 10:40:42,470 - ERROR - Unexpected error with client ('127.0.0.1', 62317): The read operation timed out
+2024-11-27 10:40:42,470 - INFO - Connection with ('127.0.0.1', 62317) closed.
+2024-11-27 10:40:44,440 - INFO - Client authenticated: admin
+2024-11-27 10:40:59,450 - ERROR - Unexpected error with client ('127.0.0.1', 62334): The read operation timed out
+2024-11-27 10:40:59,450 - INFO - Connection with ('127.0.0.1', 62334) closed.
+2024-11-27 10:41:05,364 - INFO - No connections received. Shutting down the server.
+2024-11-27 10:41:05,364 - INFO - Server shut down.
